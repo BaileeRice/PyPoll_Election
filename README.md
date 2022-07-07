@@ -22,6 +22,8 @@ get their specific percentages
 
 - Made a For Loop almost identical to the previous one, this time we swap in the candidates names and divide their votes by the total amount(369,711)
 
+---
+
 WINNING CANDIDATE:
 
 ![image](https://user-images.githubusercontent.com/105184244/177670832-95d45483-b387-4ee3-be2f-d61fa56e705f.png)
