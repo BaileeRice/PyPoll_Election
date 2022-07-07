@@ -11,7 +11,12 @@ We are compiling data from the [election_results.csv](https://github.com/BaileeR
 - Set a For Loop to retrieve each county's votes and divided their individual amounts by the total votes(369,711), then multiplied by 100 to
 get their specific percentages
 
+---
+
 - Denver ended up recieving majority vote
+![image](https://user-images.githubusercontent.com/105184244/177671767-01845465-4e00-448f-bdea-e39aa9c682e4.png)
+
+---
 
 ![image](https://user-images.githubusercontent.com/105184244/177669514-1a695442-bbff-4b2e-8676-0e8ef26c44a9.png)
 
