@@ -1,10 +1,10 @@
 # PyPoll_Challenge
-OVERVIEW:
+## OVERVIEW:
+
 We are compiling data from the [election_results.csv](https://github.com/BaileeRice/PyPoll_Challenge/files/9059487/election_results.csv) file to categorize the data into a more readable structure for the election commission
 
- ---
  
- ELECTION RESULTS:
+ ## ELECTION RESULTS:
  
  ![image](https://user-images.githubusercontent.com/105184244/177668744-c7ab9f6f-2639-4e72-aa36-c8ed87a8ee0e.png)
 
@@ -24,13 +24,12 @@ get their specific percentages
 
 ---
 
-WINNING CANDIDATE:
+## WINNING CANDIDATE:
 
 ![image](https://user-images.githubusercontent.com/105184244/177670832-95d45483-b387-4ee3-be2f-d61fa56e705f.png)
 
----
 
-ELECTION SUMMARY:
+## ELECTION SUMMARY:
 This script can be adjusted by simply changing the root file that is being referenced, especially if the votes are calculated then put in a .csv with similar formatting(3 rows wide), it would almost be seamless and can be incorporated in future elections
 For larger scale elections you could always replace the "county" variables with something like "City" or "State" if your data is more wide spread
 
