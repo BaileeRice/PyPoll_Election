@@ -1,4 +1,4 @@
-# PyPoll_Challenge
+# PyPoll_Election
 ## OVERVIEW:
 
 We are compiling data from the [election_results.csv](https://github.com/BaileeRice/PyPoll_Challenge/files/9059487/election_results.csv) file to categorize the data into a more readable structure for the election commission
