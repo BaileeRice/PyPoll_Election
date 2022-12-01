@@ -11,7 +11,6 @@ We are compiling data from the [election_results.csv](https://github.com/BaileeR
 - Set a For Loop to retrieve each county's votes and divided their individual amounts by the total votes(369,711), then multiplied by 100 to
 get their specific percentages
 
----
 
 - Denver ended up recieving majority vote
 ![image](https://user-images.githubusercontent.com/105184244/177671767-01845465-4e00-448f-bdea-e39aa9c682e4.png)
@@ -21,7 +20,6 @@ get their specific percentages
 
 - Made a For Loop almost identical to the previous one, this time we swap in the candidates names and divide their votes by the total amount(369,711)
 
----
 
 ## WINNING CANDIDATE:
 
