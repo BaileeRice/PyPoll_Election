@@ -16,7 +16,6 @@ get their specific percentages
 - Denver ended up recieving majority vote
 ![image](https://user-images.githubusercontent.com/105184244/177671767-01845465-4e00-448f-bdea-e39aa9c682e4.png)
 
----
 
 ![image](https://user-images.githubusercontent.com/105184244/177669514-1a695442-bbff-4b2e-8676-0e8ef26c44a9.png)
 
